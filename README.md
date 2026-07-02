@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @CalebBav234
-- 👀 I’m interested in gaming, programming, marvel movies, and hanging out with friends
-- 🌱 I’m currently learning information systems engineering
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me calebbaving12@gmail.com
-
-<!---
-CalebBav234/CalebBav234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Systems Engineering student @ UCB Cochabamba — passionate about software development, AI/ML, andcybersecurity. Skilled in Java, C#, TypeScript, Python, and cloud platforms. 1st-place winner at COCHATECH2026 and UCB CTF 2025. Open source enthusiast — check out my projects!
